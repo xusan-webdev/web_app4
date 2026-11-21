@@ -1,0 +1,13 @@
+.tugma {
+  background-color: royalblue;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.tugma:hover {
+  background-color: darkblue;
+}
